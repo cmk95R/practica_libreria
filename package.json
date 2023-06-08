@@ -1,7 +1,6 @@
 {
   "name": "clase16",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,5 +10,14 @@
   "license": "ISC",
   "dependencies": {
     "colors": "^1.4.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmk95R/practica_libreria.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cmk95R/practica_libreria/issues"
+  },
+  "homepage": "https://github.com/cmk95R/practica_libreria#readme",
+  "description": ""
 }
