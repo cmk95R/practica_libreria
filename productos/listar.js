@@ -1,4 +1,4 @@
-const {leerJSON,escribirJSON} = require('../data');
+const {leerJSON} = require('../data');
 const productos_db = leerJSON()
 
 const listar = function (productos = productos_db) {
