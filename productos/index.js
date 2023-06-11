@@ -1,11 +1,10 @@
-/* const {leerJSON,escribirJSON} = require('../data');
-const Producto = require('./Producto'); */
+const {leerJSON,escribirJSON} = require('../data');
+const Producto = require('./Producto'); 
 
 module.exports = {
  //productos: leerJSON()
  listar: require('./listar'),
- filtrar: require('./filtrar')
- agregar: require ('./')
- //editar: require ('./')
+ //agregar: require ('./')
+ editar: require('./editar')
  //buscar: require ('./')
 };
