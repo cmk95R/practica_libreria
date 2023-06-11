@@ -6,7 +6,7 @@
       "precio": 100,
       "descuento": 5,
       "stock": false,
-      "categoria" : "artistica"
+      "categoria": "artistica"
    },
    {
       "id": 2,
@@ -15,7 +15,7 @@
       "precio": 100,
       "descuento": 10,
       "stock": true,
-      "categoria" : "artistica"
+      "categoria": "artistica"
    },
    {
       "id": 3,
@@ -24,7 +24,7 @@
       "precio": 300,
       "descuento": 10,
       "stock": true,
-      "categoria" : "artistica"
+      "categoria": "artistica"
    },
    {
       "id": 4,
@@ -33,7 +33,7 @@
       "precio": 1300,
       "descuento": 20,
       "stock": true,
-      "categoria" : "escolar"
+      "categoria": "escolar"
    },
    {
       "id": 5,
@@ -42,7 +42,7 @@
       "precio": 200,
       "descuento": 0,
       "stock": true,
-      "categoria" : "escolar"
+      "categoria": "escolar"
    },
    {
       "id": 6,
@@ -51,7 +51,7 @@
       "precio": 400,
       "descuento": 0,
       "stock": false,
-      "categoria" : "escolar"
+      "categoria": "escolar"
    },
    {
       "id": 7,
@@ -60,7 +60,7 @@
       "precio": 300,
       "descuento": 0,
       "stock": true,
-      "categoria" : "escolar"
+      "categoria": "escolar"
    },
    {
       "id": 8,
@@ -69,7 +69,7 @@
       "precio": 1000,
       "descuento": 0,
       "stock": false,
-      "categoria" : "comercial"
+      "categoria": "comercial"
    },
    {
       "id": 9,
@@ -78,7 +78,7 @@
       "precio": 500,
       "descuento": 10,
       "stock": true,
-      "categoria" : "comercial"
+      "categoria": "comercial"
    },
    {
       "id": 10,
@@ -87,7 +87,7 @@
       "precio": 1500,
       "descuento": 20,
       "stock": true,
-      "categoria" : "comercial"
+      "categoria": "comercial"
    },
    {
       "id": 11,
@@ -96,7 +96,7 @@
       "precio": 500,
       "descuento": 10,
       "stock": true,
-      "categoria" : "comercial"
+      "categoria": "comercial"
    },
    {
       "id": 12,
@@ -105,7 +105,7 @@
       "precio": 500,
       "descuento": 10,
       "stock": true,
-      "categoria" : "comercial"
+      "categoria": "comercial"
    },
    {
       "id": 13,
@@ -114,6 +114,14 @@
       "precio": 500,
       "descuento": 10,
       "stock": true,
-      "categoria" : "comercial"
+      "categoria": "comercial"
+   },
+   {
+      "id": 14,
+      "nombre": "lapiz",
+      "marca": "papermate",
+      "precio": 650,
+      "descuento": 0,
+      "stock": true
    }
 ]
