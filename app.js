@@ -1,6 +1,6 @@
 console.clear();
 const argv = require("process").argv;
-const moduloProductos = require("./productos");
+const moduloProductos = require("./funcionalidades/filtrar");
 require('colors');
 
 const comando = argv[2];
