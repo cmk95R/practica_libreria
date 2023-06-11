@@ -115,5 +115,13 @@
       "descuento": 10,
       "stock": true,
       "categoria": "comercial"
+   },
+   {
+      "id": 14,
+      "nombre": "lapiz",
+      "marca": "papermate",
+      "precio": 650,
+      "descuento": 0,
+      "stock": true
    }
 ]
